@@ -61,3 +61,9 @@ h3{
     margin: 20px auto; 
     max-width: 600px
 }
+
+h4{
+    text-align: justify;
+    color: #363535; 
+    font-weight: normal; 
+}
