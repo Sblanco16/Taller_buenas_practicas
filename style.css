@@ -1,0 +1,18 @@
+body{
+    background-color:#FFF0F5;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+color:aliceblue;
+ text-align: center;
+ font-size: 24px;
+ 
+}
+.navbar{
+   background-color: #875be0;
+   padding: 10px;
+   width: 100%;
+   margin-top: 0% 0 0 ;
+}
